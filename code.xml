@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Berita Universitas Kadiri</title>
+    <link>https://unik-kediri.ac.id/list-berita</link>
+    <description>RSS Feed Berita Terbaru dari Universitas Kadiri</description>
+    <language>id</language>
+
+    <item>
+      <title>Seminar Hukum & Penandatanganan MoU-MoA Bersama Kejaksaan Negeri</title>
+      <link>https://unik-kediri.ac.id/list-berita/seminar-hukum-penandatanganan-mou-moa</link>
+      <description>Fakultas Hukum Universitas Kadiri menyelenggarakan Seminar Hukum bertema “Memahami Regulasi dan Implementasi KUHP Baru di Indonesia”.</description>
+      <pubDate>Mon, 03 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Memperingati Hari Lahir Pancasila 1 Juni 2025</title>
+      <link>https://unik-kediri.ac.id/list-berita/hari-lahir-pancasila</link>
+      <description>Universitas Kadiri mengucapkan: Selamat Hari Lahir Pancasila! Tanggal 1 Juni setiap tahunnya diperingati.</description>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Pengumuman Wisuda Semester Ganjil Universitas Kadiri Tahun Akademik 2024/2025</title>
+      <link>https://unik-kediri.ac.id/list-berita/wisuda-semester-ganjil</link>
+      <description>Universitas Kadiri dengan bangga mengumumkan pelaksanaan Wisuda Semester Ganjil Tahun Akademik 2024/2025.</description>
+      <pubDate>Mon, 01 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Seminar Karir JPC UNIK Bersama J&T</title>
+      <link>https://unik-kediri.ac.id/list-berita/seminar-karir-jpc</link>
+      <description>Job Placement Center (JPC) Universitas Kadiri kembali menghadirkan program peningkatan kemampuan public speaking dan jiwa kewirausahaan mahasiswa.</description>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Universitas Kadiri Buka Kesempatan Belajar melalui Program RPL</title>
+      <link>https://unik-kediri.ac.id/list-berita/program-rpl</link>
+      <description>Dalam rangka mendukung perluasan akses pendidikan tinggi dan mendorong pengakuan terhadap pengalaman.</description>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+    </item>
+
+  </channel>
+</rss>
