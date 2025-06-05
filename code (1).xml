@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Berita Universitas Kadiri</title>
+    <link>https://unik-kediri.ac.id/list-berita</link>
+    <description>RSS Feed Berita Terbaru dari Universitas Kadiri</description>
+    <language>id</language>
+
+    <item>
+      <title>Seminar Hukum & Penandatanganan MoU-MoA Bersama Kejaksaan Negeri</title>
+      <link>https://unik-kediri.ac.id/list-berita/seminar-hukum-penandatanganan-mou-moa</link>
+      <description>Fakultas Hukum Universitas Kadiri menyelenggarakan Seminar Hukum bertema “Memahami Regulasi dan Implementasi KUHP Baru di Indonesia”.</description>
+      <pubDate>Mon, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Tim Humas Universitas Kadiri</dc:creator>
+      <dc:identifier>https://unik-kediri.ac.id/list-berita/seminar-hukum-penandatanganan-mou-moa</dc:identifier>
+      <content:encoded><![CDATA[<p>Detail acara dan informasi tambahan.</p>]]></content:encoded>
+    </item>
+
+    <item>
+      <title>Memperingati Hari Lahir Pancasila 1 Juni 2025</title>
+      <link>https://unik-kediri.ac.id/list-berita/hari-lahir-pancasila</link>
+      <description>Universitas Kadiri mengucapkan: Selamat Hari Lahir Pancasila! Tanggal 1 Juni setiap tahunnya diperingati.</description>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Tim Humas Universitas Kadiri</dc:creator>
+      <dc:identifier>https://unik-kediri.ac.id/list-berita/hari-lahir-pancasila</dc:identifier>
+      <content:encoded><![CDATA[<p>Penjelasan lebih lanjut tentang peringatan ini.</p>]]></content:encoded>
+    </item>
+
+    <!-- Item lain dengan format yang sama -->
+    
+  </channel>
+</rss>
